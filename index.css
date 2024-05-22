@@ -117,22 +117,22 @@ padding-left:0
   
   /* The about link: 20px from the top with a green background */
   #facebook {
-    top: 40px;
+    top: 10%;
     background-color: #4CAF50;
   }
   
   #twitter {
-    top: 80px;
+    top: 13%;
     background-color: #2196F3; /* Blue */
   }
   
   #email {
-    top: 120px;
+    top: 16%;
     background-color: #f44336; /* Red */
   }
   
   #copy {
-    top: 160px;
+    top: 19%;
     background-color: #555 /* Light Black */
   }
 /*side button end */
